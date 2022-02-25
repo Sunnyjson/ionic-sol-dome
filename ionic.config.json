@@ -1,0 +1,7 @@
+{
+  "name": "ionic-sol-dome",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
