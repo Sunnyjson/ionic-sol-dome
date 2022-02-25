@@ -1,2 +1,2 @@
-# ionic-sol-domw
+# ionic-sol-dome
 this is a ionic sol dome
